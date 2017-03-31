@@ -1,1 +1,1 @@
-disp('hello, gnu')
+disp('hello, MATLAB')
